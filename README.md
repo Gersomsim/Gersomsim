@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gersom Hernandez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gersomsim&label=Profile%20views&color=0e75b6&style=flat" alt="gersomsim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gersomsim" alt="gersomsim" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gersomsim" target="blank"><img src="https://img.shields.io/twitter/follow/gersomsim?logo=twitter&style=for-the-badge" alt="gersomsim" /></a> </p>
-
 - 🔭 I’m currently working on [website to manage events in Angular, Laravel and Postgres](https://event-manager.gersom.me)
 
 - 🌱 I’m currently learning **FastAPI**
@@ -45,5 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gersomsim&" alt="gersomsim" /></p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gersomsim&theme=prussian&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
